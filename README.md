@@ -6,7 +6,6 @@ Function:
 
 Requirement:
 - Download Python, OpenCV, Open3D, Mediapipe, OneEuroFilter, Ursina, Threading, RealSense and their supporting applications.
--  
 
 Usage:
 - Code -> Download ZIP file -> Open main.py on each file -> Build
